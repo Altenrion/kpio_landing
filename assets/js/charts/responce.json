@@ -1,0 +1,3042 @@
+{
+  "requestId": 1530012602,
+  "series": [
+    {
+      "type": "area",
+      "name": "VISITS",
+      "data": [
+        {
+          "Id": 1,
+          "ParentId": 0,
+          "Name": "2018-02-12",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 2,
+          "ParentId": 0,
+          "Name": "2018-02-09",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 12,
+          "ParentId": 2,
+          "Name": "2",
+          "Value": 16,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 2,
+          "ParentId": 1,
+          "Name": "4",
+          "Value": 31,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 3,
+          "ParentId": 0,
+          "Name": "2018-02-17",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 3,
+          "ParentId": 1,
+          "Name": "2",
+          "Value": 22,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 22,
+          "ParentId": 2,
+          "Name": "4",
+          "Value": 22,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 4,
+          "ParentId": 1,
+          "Name": "1",
+          "Value": 11,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 4,
+          "ParentId": 0,
+          "Name": "2018-02-16",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 13,
+          "ParentId": 3,
+          "Name": "4",
+          "Value": 19,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 5,
+          "ParentId": 1,
+          "Name": "3",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 32,
+          "ParentId": 2,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 23,
+          "ParentId": 3,
+          "Name": "2",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 5,
+          "ParentId": 0,
+          "Name": "2018-02-06",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 14,
+          "ParentId": 4,
+          "Name": "4",
+          "Value": 24,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 15,
+          "ParentId": 5,
+          "Name": "4",
+          "Value": 25,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 33,
+          "ParentId": 3,
+          "Name": "1",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 25,
+          "ParentId": 5,
+          "Name": "1",
+          "Value": 8,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 6,
+          "ParentId": 0,
+          "Name": "2018-01-29",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 24,
+          "ParentId": 4,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 35,
+          "ParentId": 5,
+          "Name": "2",
+          "Value": 14,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 34,
+          "ParentId": 4,
+          "Name": "1",
+          "Value": 8,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 7,
+          "ParentId": 0,
+          "Name": "2018-03-26",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 16,
+          "ParentId": 6,
+          "Name": "2",
+          "Value": 19,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 44,
+          "ParentId": 4,
+          "Name": "2",
+          "Value": 18,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 26,
+          "ParentId": 6,
+          "Name": "4",
+          "Value": 30,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 8,
+          "ParentId": 0,
+          "Name": "2018-02-24",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 17,
+          "ParentId": 7,
+          "Name": "2",
+          "Value": 19,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 36,
+          "ParentId": 6,
+          "Name": "1",
+          "Value": 14,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 27,
+          "ParentId": 7,
+          "Name": "4",
+          "Value": 21,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 9,
+          "ParentId": 0,
+          "Name": "2018-02-18",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 18,
+          "ParentId": 8,
+          "Name": "2",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 37,
+          "ParentId": 7,
+          "Name": "1",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 46,
+          "ParentId": 6,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 28,
+          "ParentId": 8,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 10,
+          "ParentId": 0,
+          "Name": "2018-03-06",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 19,
+          "ParentId": 9,
+          "Name": "2",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 47,
+          "ParentId": 7,
+          "Name": "3",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 20,
+          "ParentId": 10,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 38,
+          "ParentId": 8,
+          "Name": "4",
+          "Value": 15,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 11,
+          "ParentId": 0,
+          "Name": "2018-03-01",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 29,
+          "ParentId": 9,
+          "Name": "4",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 48,
+          "ParentId": 8,
+          "Name": "1",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 30,
+          "ParentId": 10,
+          "Name": "2",
+          "Value": 16,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 39,
+          "ParentId": 9,
+          "Name": "1",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 12,
+          "ParentId": 0,
+          "Name": "2018-03-30",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 111,
+          "ParentId": 11,
+          "Name": "4",
+          "Value": 24,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 40,
+          "ParentId": 10,
+          "Name": "4",
+          "Value": 37,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 112,
+          "ParentId": 12,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 50,
+          "ParentId": 10,
+          "Name": "3",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 13,
+          "ParentId": 0,
+          "Name": "2018-03-19",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 211,
+          "ParentId": 11,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 212,
+          "ParentId": 12,
+          "Name": "1",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 311,
+          "ParentId": 11,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 14,
+          "ParentId": 0,
+          "Name": "2018-03-14",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 113,
+          "ParentId": 13,
+          "Name": "4",
+          "Value": 43,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 411,
+          "ParentId": 11,
+          "Name": "2",
+          "Value": 14,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 312,
+          "ParentId": 12,
+          "Name": "4",
+          "Value": 25,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 213,
+          "ParentId": 13,
+          "Name": "1",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 15,
+          "ParentId": 0,
+          "Name": "2018-02-07",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 114,
+          "ParentId": 14,
+          "Name": "4",
+          "Value": 34,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 412,
+          "ParentId": 12,
+          "Name": "2",
+          "Value": 15,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 115,
+          "ParentId": 15,
+          "Name": "3",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 313,
+          "ParentId": 13,
+          "Name": "2",
+          "Value": 28,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 16,
+          "ParentId": 0,
+          "Name": "2018-02-03",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 214,
+          "ParentId": 14,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 413,
+          "ParentId": 13,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 215,
+          "ParentId": 15,
+          "Name": "1",
+          "Value": 10,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 314,
+          "ParentId": 14,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 17,
+          "ParentId": 0,
+          "Name": "2018-03-21",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 116,
+          "ParentId": 16,
+          "Name": "4",
+          "Value": 14,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 315,
+          "ParentId": 15,
+          "Name": "4",
+          "Value": 31,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 117,
+          "ParentId": 17,
+          "Name": "4",
+          "Value": 40,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 216,
+          "ParentId": 16,
+          "Name": "2",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 414,
+          "ParentId": 14,
+          "Name": "2",
+          "Value": 11,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 18,
+          "ParentId": 0,
+          "Name": "2018-03-15",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 415,
+          "ParentId": 15,
+          "Name": "2",
+          "Value": 14,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 316,
+          "ParentId": 16,
+          "Name": "1",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 217,
+          "ParentId": 17,
+          "Name": "2",
+          "Value": 19,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 118,
+          "ParentId": 18,
+          "Name": "4",
+          "Value": 25,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 416,
+          "ParentId": 16,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 19,
+          "ParentId": 0,
+          "Name": "2018-03-05",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 218,
+          "ParentId": 18,
+          "Name": "1",
+          "Value": 10,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 317,
+          "ParentId": 17,
+          "Name": "1",
+          "Value": 8,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 119,
+          "ParentId": 19,
+          "Name": "2",
+          "Value": 20,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 417,
+          "ParentId": 17,
+          "Name": "3",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 20,
+          "ParentId": 0,
+          "Name": "2018-02-28",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 318,
+          "ParentId": 18,
+          "Name": "2",
+          "Value": 17,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 219,
+          "ParentId": 19,
+          "Name": "4",
+          "Value": 31,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 418,
+          "ParentId": 18,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 21,
+          "ParentId": 0,
+          "Name": "2018-02-23",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 120,
+          "ParentId": 20,
+          "Name": "4",
+          "Value": 55,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 319,
+          "ParentId": 19,
+          "Name": "1",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 220,
+          "ParentId": 20,
+          "Name": "1",
+          "Value": 8,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 22,
+          "ParentId": 0,
+          "Name": "2018-02-10",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 121,
+          "ParentId": 21,
+          "Name": "4",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 320,
+          "ParentId": 20,
+          "Name": "2",
+          "Value": 18,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 419,
+          "ParentId": 19,
+          "Name": "3",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 221,
+          "ParentId": 21,
+          "Name": "2",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 23,
+          "ParentId": 0,
+          "Name": "2018-03-25",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 122,
+          "ParentId": 22,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 420,
+          "ParentId": 20,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 123,
+          "ParentId": 23,
+          "Name": "2",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 321,
+          "ParentId": 21,
+          "Name": "1",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 24,
+          "ParentId": 0,
+          "Name": "2018-03-23",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 222,
+          "ParentId": 22,
+          "Name": "2",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 421,
+          "ParentId": 21,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 223,
+          "ParentId": 23,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 322,
+          "ParentId": 22,
+          "Name": "4",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 25,
+          "ParentId": 0,
+          "Name": "2018-03-17",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 124,
+          "ParentId": 24,
+          "Name": "3",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 323,
+          "ParentId": 23,
+          "Name": "4",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 125,
+          "ParentId": 25,
+          "Name": "1",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 422,
+          "ParentId": 22,
+          "Name": "1",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 423,
+          "ParentId": 23,
+          "Name": "1",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 26,
+          "ParentId": 0,
+          "Name": "2018-02-05",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 224,
+          "ParentId": 24,
+          "Name": "4",
+          "Value": 34,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 225,
+          "ParentId": 25,
+          "Name": "4",
+          "Value": 25,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 126,
+          "ParentId": 26,
+          "Name": "1",
+          "Value": 6,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 325,
+          "ParentId": 25,
+          "Name": "2",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 27,
+          "ParentId": 0,
+          "Name": "2018-02-04",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 324,
+          "ParentId": 24,
+          "Name": "1",
+          "Value": 6,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 226,
+          "ParentId": 26,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 424,
+          "ParentId": 24,
+          "Name": "2",
+          "Value": 18,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 28,
+          "ParentId": 0,
+          "Name": "2018-02-01",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 127,
+          "ParentId": 27,
+          "Name": "1",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 326,
+          "ParentId": 26,
+          "Name": "4",
+          "Value": 24,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 227,
+          "ParentId": 27,
+          "Name": "4",
+          "Value": 8,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 29,
+          "ParentId": 0,
+          "Name": "2018-03-18",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 128,
+          "ParentId": 28,
+          "Name": "4",
+          "Value": 42,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 327,
+          "ParentId": 27,
+          "Name": "2",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 426,
+          "ParentId": 26,
+          "Name": "2",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 228,
+          "ParentId": 28,
+          "Name": "1",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 30,
+          "ParentId": 0,
+          "Name": "2018-03-13",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 129,
+          "ParentId": 29,
+          "Name": "1",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 130,
+          "ParentId": 30,
+          "Name": "4",
+          "Value": 24,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 328,
+          "ParentId": 28,
+          "Name": "2",
+          "Value": 19,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 230,
+          "ParentId": 30,
+          "Name": "3",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 31,
+          "ParentId": 0,
+          "Name": "2018-03-09",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 229,
+          "ParentId": 29,
+          "Name": "4",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 330,
+          "ParentId": 30,
+          "Name": "2",
+          "Value": 19,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 428,
+          "ParentId": 28,
+          "Name": "3",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 329,
+          "ParentId": 29,
+          "Name": "2",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 32,
+          "ParentId": 0,
+          "Name": "2018-02-13",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 131,
+          "ParentId": 31,
+          "Name": "4",
+          "Value": 8,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 430,
+          "ParentId": 30,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 132,
+          "ParentId": 32,
+          "Name": "4",
+          "Value": 34,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 33,
+          "ParentId": 0,
+          "Name": "2018-03-24",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 231,
+          "ParentId": 31,
+          "Name": "2",
+          "Value": 6,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 133,
+          "ParentId": 33,
+          "Name": "2",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 232,
+          "ParentId": 32,
+          "Name": "2",
+          "Value": 13,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 233,
+          "ParentId": 33,
+          "Name": "1",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 34,
+          "ParentId": 0,
+          "Name": "2018-03-02",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 331,
+          "ParentId": 31,
+          "Name": "1",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 333,
+          "ParentId": 33,
+          "Name": "4",
+          "Value": 17,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 332,
+          "ParentId": 32,
+          "Name": "3",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 431,
+          "ParentId": 31,
+          "Name": "3",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 35,
+          "ParentId": 0,
+          "Name": "2018-02-19",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 134,
+          "ParentId": 34,
+          "Name": "4",
+          "Value": 39,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 432,
+          "ParentId": 32,
+          "Name": "1",
+          "Value": 10,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 135,
+          "ParentId": 35,
+          "Name": "4",
+          "Value": 32,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 36,
+          "ParentId": 0,
+          "Name": "2018-02-15",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 234,
+          "ParentId": 34,
+          "Name": "2",
+          "Value": 19,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 136,
+          "ParentId": 36,
+          "Name": "4",
+          "Value": 25,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 235,
+          "ParentId": 35,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 37,
+          "ParentId": 0,
+          "Name": "2018-01-30",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 334,
+          "ParentId": 34,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 236,
+          "ParentId": 36,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 335,
+          "ParentId": 35,
+          "Name": "2",
+          "Value": 15,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 434,
+          "ParentId": 34,
+          "Name": "1",
+          "Value": 14,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 38,
+          "ParentId": 0,
+          "Name": "2018-01-27",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 137,
+          "ParentId": 37,
+          "Name": "1",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 435,
+          "ParentId": 35,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 336,
+          "ParentId": 36,
+          "Name": "2",
+          "Value": 18,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 138,
+          "ParentId": 38,
+          "Name": "4",
+          "Value": 11,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 39,
+          "ParentId": 0,
+          "Name": "2018-03-29",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 237,
+          "ParentId": 37,
+          "Name": "2",
+          "Value": 11,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 238,
+          "ParentId": 38,
+          "Name": "1",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 436,
+          "ParentId": 36,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 337,
+          "ParentId": 37,
+          "Name": "4",
+          "Value": 25,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 40,
+          "ParentId": 0,
+          "Name": "2018-03-07",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 139,
+          "ParentId": 39,
+          "Name": "4",
+          "Value": 30,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 338,
+          "ParentId": 38,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 140,
+          "ParentId": 40,
+          "Name": "4",
+          "Value": 30,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 437,
+          "ParentId": 37,
+          "Name": "3",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 438,
+          "ParentId": 38,
+          "Name": "2",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 41,
+          "ParentId": 0,
+          "Name": "2018-02-20",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 239,
+          "ParentId": 39,
+          "Name": "2",
+          "Value": 23,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 240,
+          "ParentId": 40,
+          "Name": "2",
+          "Value": 11,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 141,
+          "ParentId": 41,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 340,
+          "ParentId": 40,
+          "Name": "1",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 42,
+          "ParentId": 0,
+          "Name": "2018-03-10",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 339,
+          "ParentId": 39,
+          "Name": "1",
+          "Value": 10,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 440,
+          "ParentId": 40,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 241,
+          "ParentId": 41,
+          "Name": "4",
+          "Value": 32,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 439,
+          "ParentId": 39,
+          "Name": "3",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 43,
+          "ParentId": 0,
+          "Name": "2018-02-25",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 142,
+          "ParentId": 42,
+          "Name": "1",
+          "Value": 6,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 341,
+          "ParentId": 41,
+          "Name": "2",
+          "Value": 6,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 143,
+          "ParentId": 43,
+          "Name": "4",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 2,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 441,
+          "ParentId": 41,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 44,
+          "ParentId": 0,
+          "Name": "2018-01-31",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 242,
+          "ParentId": 42,
+          "Name": "2",
+          "Value": 6,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 243,
+          "ParentId": 43,
+          "Name": "1",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 2,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 342,
+          "ParentId": 42,
+          "Name": "4",
+          "Value": 10,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 45,
+          "ParentId": 0,
+          "Name": "2018-03-11",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 144,
+          "ParentId": 44,
+          "Name": "4",
+          "Value": 37,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 442,
+          "ParentId": 42,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 244,
+          "ParentId": 44,
+          "Name": "2",
+          "Value": 21,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 46,
+          "ParentId": 0,
+          "Name": "2018-03-03",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 145,
+          "ParentId": 45,
+          "Name": "4",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 344,
+          "ParentId": 44,
+          "Name": "1",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 245,
+          "ParentId": 45,
+          "Name": "1",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 47,
+          "ParentId": 0,
+          "Name": "2018-03-20",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 146,
+          "ParentId": 46,
+          "Name": "4",
+          "Value": 14,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 345,
+          "ParentId": 45,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 444,
+          "ParentId": 44,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 246,
+          "ParentId": 46,
+          "Name": "1",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 48,
+          "ParentId": 0,
+          "Name": "2018-03-16",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 147,
+          "ParentId": 47,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 148,
+          "ParentId": 48,
+          "Name": "2",
+          "Value": 16,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 346,
+          "ParentId": 46,
+          "Name": "2",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 248,
+          "ParentId": 48,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 49,
+          "ParentId": 0,
+          "Name": "2018-02-11",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 247,
+          "ParentId": 47,
+          "Name": "2",
+          "Value": 17,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 348,
+          "ParentId": 48,
+          "Name": "4",
+          "Value": 45,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 347,
+          "ParentId": 47,
+          "Name": "4",
+          "Value": 19,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 50,
+          "ParentId": 0,
+          "Name": "2018-03-31",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 149,
+          "ParentId": 49,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 447,
+          "ParentId": 47,
+          "Name": "1",
+          "Value": 6,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 448,
+          "ParentId": 48,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 51,
+          "ParentId": 0,
+          "Name": "2018-02-26",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 249,
+          "ParentId": 49,
+          "Name": "2",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 150,
+          "ParentId": 50,
+          "Name": "4",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 349,
+          "ParentId": 49,
+          "Name": "4",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 52,
+          "ParentId": 0,
+          "Name": "2018-02-22",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 151,
+          "ParentId": 51,
+          "Name": "4",
+          "Value": 27,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 449,
+          "ParentId": 49,
+          "Name": "1",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 250,
+          "ParentId": 50,
+          "Name": "1",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 251,
+          "ParentId": 51,
+          "Name": "2",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 53,
+          "ParentId": 0,
+          "Name": "2018-02-14",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 152,
+          "ParentId": 52,
+          "Name": "4",
+          "Value": 32,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 350,
+          "ParentId": 50,
+          "Name": "2",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 153,
+          "ParentId": 53,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 351,
+          "ParentId": 51,
+          "Name": "1",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 54,
+          "ParentId": 0,
+          "Name": "2018-01-28",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 252,
+          "ParentId": 52,
+          "Name": "1",
+          "Value": 10,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 451,
+          "ParentId": 51,
+          "Name": "3",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 253,
+          "ParentId": 53,
+          "Name": "3",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 352,
+          "ParentId": 52,
+          "Name": "2",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 55,
+          "ParentId": 0,
+          "Name": "2018-03-27",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 154,
+          "ParentId": 54,
+          "Name": "4",
+          "Value": 6,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 353,
+          "ParentId": 53,
+          "Name": "2",
+          "Value": 21,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 155,
+          "ParentId": 55,
+          "Name": "4",
+          "Value": 27,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 452,
+          "ParentId": 52,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 453,
+          "ParentId": 53,
+          "Name": "4",
+          "Value": 41,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 56,
+          "ParentId": 0,
+          "Name": "2018-03-12",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 254,
+          "ParentId": 54,
+          "Name": "2",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 255,
+          "ParentId": 55,
+          "Name": "2",
+          "Value": 16,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 156,
+          "ParentId": 56,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 355,
+          "ParentId": 55,
+          "Name": "1",
+          "Value": 7,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 57,
+          "ParentId": 0,
+          "Name": "2018-03-04",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 354,
+          "ParentId": 54,
+          "Name": "1",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 455,
+          "ParentId": 55,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 256,
+          "ParentId": 56,
+          "Name": "2",
+          "Value": 16,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 58,
+          "ParentId": 0,
+          "Name": "2018-02-21",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 157,
+          "ParentId": 57,
+          "Name": "4",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 356,
+          "ParentId": 56,
+          "Name": "1",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 257,
+          "ParentId": 57,
+          "Name": "1",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 59,
+          "ParentId": 0,
+          "Name": "2018-02-08",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 158,
+          "ParentId": 58,
+          "Name": "2",
+          "Value": 5,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 357,
+          "ParentId": 57,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 456,
+          "ParentId": 56,
+          "Name": "4",
+          "Value": 42,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 258,
+          "ParentId": 58,
+          "Name": "1",
+          "Value": 11,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 60,
+          "ParentId": 0,
+          "Name": "2018-02-27",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 159,
+          "ParentId": 59,
+          "Name": "4",
+          "Value": 32,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 160,
+          "ParentId": 60,
+          "Name": "2",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 358,
+          "ParentId": 58,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 260,
+          "ParentId": 60,
+          "Name": "4",
+          "Value": 24,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 61,
+          "ParentId": 0,
+          "Name": "2018-01-26",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 259,
+          "ParentId": 59,
+          "Name": "1",
+          "Value": 13,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 360,
+          "ParentId": 60,
+          "Name": "1",
+          "Value": 3,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 458,
+          "ParentId": 58,
+          "Name": "4",
+          "Value": 35,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 359,
+          "ParentId": 59,
+          "Name": "2",
+          "Value": 16,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 62,
+          "ParentId": 0,
+          "Name": "2018-03-28",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 161,
+          "ParentId": 61,
+          "Name": "1",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 460,
+          "ParentId": 60,
+          "Name": "3",
+          "Value": 1,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 162,
+          "ParentId": 62,
+          "Name": "4",
+          "Value": 35,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 63,
+          "ParentId": 0,
+          "Name": "2018-03-22",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 261,
+          "ParentId": 61,
+          "Name": "4",
+          "Value": 45,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 163,
+          "ParentId": 63,
+          "Name": "2",
+          "Value": 17,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 262,
+          "ParentId": 62,
+          "Name": "2",
+          "Value": 10,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 263,
+          "ParentId": 63,
+          "Name": "3",
+          "Value": 2,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 64,
+          "ParentId": 0,
+          "Name": "2018-02-02",
+          "Value": 0,
+          "Level": 1,
+          "Children": null,
+          "BranchCount": 0,
+          "GroupingName": "Date"
+        },
+        {
+          "Id": 361,
+          "ParentId": 61,
+          "Name": "2",
+          "Value": 15,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 363,
+          "ParentId": 63,
+          "Name": "1",
+          "Value": 12,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 362,
+          "ParentId": 62,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 3,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 461,
+          "ParentId": 61,
+          "Name": "3",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 164,
+          "ParentId": 64,
+          "Name": "2",
+          "Value": 22,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 463,
+          "ParentId": 63,
+          "Name": "4",
+          "Value": 28,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 264,
+          "ParentId": 64,
+          "Name": "4",
+          "Value": 26,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 364,
+          "ParentId": 64,
+          "Name": "1",
+          "Value": 9,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        },
+        {
+          "Id": 464,
+          "ParentId": 64,
+          "Name": "3",
+          "Value": 4,
+          "Level": 2,
+          "Children": null,
+          "BranchCount": 4,
+          "GroupingName": "Id_line"
+        }
+      ]
+    }
+  ],
+  "error": ""
+}
