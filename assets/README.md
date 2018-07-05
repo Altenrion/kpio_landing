@@ -84,15 +84,15 @@ type KpiCountRequest struct {
 ```
 
 **Milestone**:
-- [ ] Write correct requests for all charts independantly to fire
-- [ ] Start counter and cash-manager containers
+- [x] Write correct requests for all charts independantly to fire
+- [x] Start counter and cash-manager containers
 
-- [ ] Open Http interface on Counter side to get requests
+- [x] Open Http interface on Counter side to get requests
+- [x] Insert data into Redis cache some how
+
+- [x] Connect all stuff
+- [x] Write descriptor that will know how to give data to any chart on JS side (graph, charts specific adoptions)
+
 - [ ] Create new filters on Go side (Specialist, unique...)
-- [ ] Insert data into Redis cache some how
-
-- [ ] Connect all stuff
-- [ ] Write descriptor that will know how to give data to any chart on JS side (graph, charts specific adoptions)
-
 - [ ] Test all
 - [ ] Run in cloud
