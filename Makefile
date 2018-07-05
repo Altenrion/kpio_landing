@@ -3,9 +3,9 @@ GO=$(shell which go)
 GOINSTALL=$(GO) install
 GOCLEAN=$(GO) clean
 
-APPNAME=landing
+APPNAME=kpio_landing
 EXENAME=github.com/altenrion/tests/$(APPNAME)
-IMAGENAME=landing
+IMAGENAME=kpio_landing
 
 LATESTIMAGENAME=cc-allplus-go:5000/$(IMAGENAME):latest
 NUMIMAGENAME=cc-allplus-go:5000/$(IMAGENAME):$(tag)

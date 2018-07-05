@@ -8,7 +8,7 @@ ADD ./assets/scss /app/assets/scss
 ADD ./assets/template /app/assets/template
 ADD ./assets/js /app/assets/js
 
-ADD landing /app/landing
+ADD kpio_landing /app/kpio_landing
 
-ENTRYPOINT ["/app/landing"]
+ENTRYPOINT ["/app/kpio_landing"]
 EXPOSE 80

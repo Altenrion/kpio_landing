@@ -92,7 +92,7 @@ function RequestBackend(requestObject, gr, id, visualisation) {
     FinishedRequest.Groups = gr;
     FinishedRequest.RequestId = id;
 
-    var url = 'http://'+window.location.hostname+':888/kpio';
+    var url = 'http://'+window.location.hostname+'/count';
 
     $.post(url, JSON.stringify(FinishedRequest), function (data, textStatus) {
 
